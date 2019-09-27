@@ -8,3 +8,6 @@ print('Hello World!')
 def add(x,y):
     z=x+y
     return z
+def substrcut(x,y):
+    z=x-y
+    return z
