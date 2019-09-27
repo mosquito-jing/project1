@@ -11,3 +11,6 @@ def add(x,y):
 def subs(x,y):
     z=x-y
     return z
+def mul(x,y):
+    z=x*y
+    return z
